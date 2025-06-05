@@ -6,7 +6,7 @@
 .main-container {
   background-color: #030202;
   min-height: 100vh;
-  border: 10px solid #e10b16;
+  border: 10px solid #fef1c3;
 }
 
 body {
@@ -56,6 +56,7 @@ img {
   font-size: 18px;
   line-height: 30px;
   letter-spacing: 1px;
+  text-align: justify;
 }
 
 h3 {
@@ -66,4 +67,10 @@ h3 {
 li {
   font-size: 18px;
   margin-bottom: 12px;
+  margin-left: 20px;
+}
+
+footer {
+  text-align: end;
+  margin: 20px;
 }
